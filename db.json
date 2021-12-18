@@ -1,11 +1,10 @@
 {
 
-  "data": [
+  "posts": [
     {"image":"http://placeimg.com/640/480/sports","description":"1","id":"1"},
     {"image":"http://placeimg.com/640/480/sports","description":"2","id":"2"},
     {"image":"http://placeimg.com/640/480/sports","description":"3","id":"3"}
 ],
-  "totalCount": 3,
 
   "profile": {
     "name": "typicode"
